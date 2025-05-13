@@ -22,6 +22,7 @@ Originally developed for cosmological studies and the analysis of the Cosmic Mic
 - [healpy](https://github.com/healpy/healpy) – Python bindings extensively used in cosmology and geoscience.
 - [chealpy](https://github.com/rainwoodman/chealpy) – Python bindings for C-HEALPix.
 - [cds-healpix-rust](https://github.com/cds-astro/cds-healpix-rust) – Rust implementation for Python and WebAssembly.
+- [cds-moc-rust](https://github.com/cds-astro/cds-moc-rust) - Read, write, create and manipulate HEALPix Multi-Order Coverage maps (MOCs) in Rust and Python
 
 ## Data Formats & Tools
 
